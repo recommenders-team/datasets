@@ -1,2 +1,4 @@
-# datasets
-Datasets of Recommenders
+# Recommenders datasets
+
+Datasets that support Recommenders repository.
+
